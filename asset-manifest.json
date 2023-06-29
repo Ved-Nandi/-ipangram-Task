@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ved-Nandi/-ipangram-Task/static/css/main.0e4e8f6e.css",
+    "main.js": "/Ved-Nandi/-ipangram-Task/static/js/main.642a12eb.js",
+    "static/js/474.9c9e1add.chunk.js": "/Ved-Nandi/-ipangram-Task/static/js/474.9c9e1add.chunk.js",
+    "static/js/787.22edae46.chunk.js": "/Ved-Nandi/-ipangram-Task/static/js/787.22edae46.chunk.js",
+    "static/js/718.f925203e.chunk.js": "/Ved-Nandi/-ipangram-Task/static/js/718.f925203e.chunk.js",
+    "static/media/spin.svg": "/Ved-Nandi/-ipangram-Task/static/media/spin.e78bdeaced21187195031b95df575536.svg",
+    "index.html": "/Ved-Nandi/-ipangram-Task/index.html",
+    "static/media/triangle-exclamation-solid.svg": "/Ved-Nandi/-ipangram-Task/static/media/triangle-exclamation-solid.a4a546f6b2e9d7246629c52156b1bb1a.svg",
+    "main.0e4e8f6e.css.map": "/Ved-Nandi/-ipangram-Task/static/css/main.0e4e8f6e.css.map",
+    "main.642a12eb.js.map": "/Ved-Nandi/-ipangram-Task/static/js/main.642a12eb.js.map",
+    "474.9c9e1add.chunk.js.map": "/Ved-Nandi/-ipangram-Task/static/js/474.9c9e1add.chunk.js.map",
+    "787.22edae46.chunk.js.map": "/Ved-Nandi/-ipangram-Task/static/js/787.22edae46.chunk.js.map",
+    "718.f925203e.chunk.js.map": "/Ved-Nandi/-ipangram-Task/static/js/718.f925203e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e4e8f6e.css",
+    "static/js/main.642a12eb.js"
+  ]
+}
