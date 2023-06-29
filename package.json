@@ -1,7 +1,7 @@
 {
   "name": "front-end",
   "version": "0.1.0",
-  "homepage": "https://github.com/Ved-Nandi/-ipangram-Task",
+  "homepage": "https://ved-nandi.github.io/-ipangram-Task/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.8",
